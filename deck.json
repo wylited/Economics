@@ -61,7 +61,9 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "5PTmTIwtKqCzBohK_ikz0obPfRMGEXDIIwDk8M1_Lemz-nYndV13WAsXl2st5GMxVzey6ntJhbxSVDzUzrrNr6zW-dUOkh805yV5rRMFwZX2dfzfyZS.png"
+            ],
             "name": "Microeconomics",
             "newLimit": null,
             "newLimitToday": null,
@@ -69,22 +71,121 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "What is demand",
+                        "What is Demand",
                         "The amount of goods and services that individuals are willing to buy at different prices in a time level (ceteris paribus)."
                     ],
                     "guid": "F@rDZ$mLke",
                     "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
-                    "tags": []
+                    "tags": [
+                        "2.1",
+                        "AO1"
+                    ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
                         "What are the non-price determinants of demand",
-                        "<ul><li>Income<br></li><li>Consumer confidence</li><li>Fashion and taste</li><li>Complementary goods</li><li>Substitute goods</li><li>Population<br></li></ul>"
+                        "<ul><li>Income<br></li><li>Tastes and preferences</li><li>Future price expectations</li><li>Price of related goods</li><li>Number of consumers</li></ul>"
                     ],
                     "guid": "w/aPK]n}:%",
                     "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
-                    "tags": []
+                    "tags": [
+                        "2.1",
+                        "AO1",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Law of Demand.",
+                        "The quantity demanded of a product will fall if price rises, and vice versa, ceteris paribus."
+                    ],
+                    "guid": "DbzI8h@W3/",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.1",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the assumptions underlying the Law of Demand",
+                        "<ol><li>The income effect (real income is proportional to consumption)<br></li><li>The substitution effect (price of substitute goods)</li><li>The law of diminishing marginal utility (the more you have of something, the less you want it)<br></li></ol>"
+                    ],
+                    "guid": "bgd&;shV5V",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.1",
+                        "AO2",
+                        "HL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The Demand Curve",
+                        "<div style=\"text-align: center;\"><img src=\"5PTmTIwtKqCzBohK_ikz0obPfRMGEXDIIwDk8M1_Lemz-nYndV13WAsXl2st5GMxVzey6ntJhbxSVDzUzrrNr6zW-dUOkh805yV5rRMFwZX2dfzfyZS.png\" style=\"float: right;\"></div><div style=\"text-align: left;\">A downwards-sloping demand line labelled D</div><div style=\"text-align: left;\">\"Price\" in a currency on the y-axis</div><div style=\"text-align: left;\">\"Quantity Demanded\" in a relevant unit on the x-axis</div><div style=\"text-align: left;\">Arrows on both axes</div>"
+                    ],
+                    "guid": "ghD5uZ_SGG",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.1",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Individual vs. Market Demand",
+                        "Market Demand is the aggregate of all Individual Demand on a product."
+                    ],
+                    "guid": "b%uR(LBk[p",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.1",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is Supply",
+                        "Quantity of goods and services that firms are willing and able to provide/sell in a time period."
+                    ],
+                    "guid": "ziJ.E>h=BX",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.2",
+                        "AO1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Law of Supply",
+                        "There is a positive relationship between quantity supplied and price, ceteris paribus."
+                    ],
+                    "guid": "o.9={r$EDR",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.2",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Assumptions underlying the Law of Supply",
+                        "<ol><li>Increasing marginal costs (likewise to above)</li><li>Increasing diminishing marginal returns (more factor of production results in lower returns)</li></ol>"
+                    ],
+                    "guid": "c99Ls(Gaon",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.2",
+                        "AO2"
+                    ]
                 }
             ],
             "reviewLimit": null,
