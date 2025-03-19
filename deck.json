@@ -69,11 +69,21 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Supply",
-                        "The production of an economic good"
+                        "What is demand",
+                        "The amount of goods and services that individuals are willing to buy at different prices in a time level (ceteris paribus)."
                     ],
-                    "guid": "C%3A>*<f)O",
-                    "note_model_uuid": "e3e1ada2-0480-11f0-aaf1-2f495cbb0966",
+                    "guid": "F@rDZ$mLke",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the non-price determinants of demand",
+                        "<ul><li>Income<br></li><li>Consumer confidence</li><li>Fashion and taste</li><li>Complementary goods</li><li>Substitute goods</li><li>Population<br></li></ul>"
+                    ],
+                    "guid": "w/aPK]n}:%",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
                     "tags": []
                 }
             ],
@@ -166,7 +176,7 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "e3e1ada2-0480-11f0-aaf1-2f495cbb0966",
+            "crowdanki_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
                 {
@@ -182,7 +192,7 @@
                     "rtl": false,
                     "size": 20,
                     "sticky": false,
-                    "tag": null
+                    "tag": 0
                 },
                 {
                     "collapsed": false,
@@ -197,14 +207,13 @@
                     "rtl": false,
                     "size": 20,
                     "sticky": false,
-                    "tag": null
+                    "tag": 0
                 }
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic+",
-            "originalId": 1735188231792,
+            "name": "Basic+-f8852",
             "originalStockKind": 1,
             "req": [
                 [
