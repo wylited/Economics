@@ -10,11 +10,557 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "AD_4nXdi6buF1AlA_OCwjwXydHrw2-3-nnizF2fiV6tO5w7UigCQyvWI3tLFX4dbPVYqwzZ08SS4h1qeY9PCQn7cRgKYv4b1oclxcPgnmvMS_zz2Epn.png"
+            ],
             "name": "Global Economy",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is an infant industry?",
+                        "An infant inustry is a relatively new industry in an economy that has not had the opportunity to benefit from economies of scale. It is one of the main arguments against trade-liberalisation, as a country could have a comparative advantage in producing a good/service, but due to the industry being very new, it has not had the time to specialise in said good's production.&nbsp;"
+                    ],
+                    "guid": "m6H[%f(x4#",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the Infant industry argument supporting trade protection?",
+                        "<b><div><span style=\"font-weight: 400;\">1. </span>Infant Industry argument<span style=\"font-weight: 400;\">: Infant industries are relatively new industries that have not had the time to fully establish themselves and start benefiting from economies of scale. Thus, local firms under free-trade will find it difficult to compete with more established, mature firms that have comparatively lower average costs of production. This argument rests on the idea that the country may have a comparative advantage in producing this good but are unable to do so because it has not had the time to fully specialise in producing said good.&nbsp;</span></div></b><br>"
+                    ],
+                    "guid": "Ai0-fI<QXC",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the national security argument supporting trade protection?",
+                        "<b><div><span style=\"font-weight: 400;\">2.</span> National Security: <span style=\"font-weight: 400;\">the production of some goods and services are essential to maintaining a country’s national security, which refers to the ability of the country to protect itself in times of conflict. It would, therefore, be unwise to be reliant on countries for the production of weapons systems as there is no guarantee that they will be able to provide them readily in times of conflict.&nbsp;</span></div></b><br>"
+                    ],
+                    "guid": "mu]7_ALk7a",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the protection of local jobs argument for supporting trade protection",
+                        "<b><div><span style=\"font-weight: 400;\">3. </span>Protection of local jobs: <span style=\"font-weight: 400;\">While trade liberalisation often comes with the reduction of prices, it does mean that local output is constrained, forcing firms to make workers redundant. As a result, unemployment is likely to increase.&nbsp;</span></div></b><br>"
+                    ],
+                    "guid": "nyp8gFF~~<",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the Anti-dumping and unfair competition argument for supporting trade protection",
+                        "<b><div><span style=\"font-weight: 400;\">4. </span>Anti-Dumping and unfair competition: <span style=\"font-weight: 400;\">Foreign firms that have been heavily and unfairly subsidized by their government can sell goods and services that local firms simply are unable to compete with, as prices exist below local costs of production. This leads them to leave the market.&nbsp;</span></div></b><br>"
+                    ],
+                    "guid": "bdm$b=K^-R",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the balance of payments argument for supporting trade protection?",
+                        "<b><div><span style=\"font-weight: 400;\">5. </span>Balance of Payments correction: <span style=\"font-weight: 400;\">This occurs when the outflow of money from a country is greater than the inflow of money, meaning that imports expenditure exceeds export revenue. This can lead to currency devaluation and put strain on a country’s current account.&nbsp;</span></div></b><br>"
+                    ],
+                    "guid": "iXkpzJPnL~",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the ELDCs and diversification argument for supporting trade protection?",
+                        "<b><div><span style=\"font-weight: 400;\">6. </span>ELDCs and Diversification: <span style=\"font-weight: 400;\">ELDCs rely heavily on the export of a few primary commodities leading to them becoming over-specialised in their production. Export dependency on these goods are unfavorable as they have high volatility and it is difficult to add value to primary commodities. (Barriers to economic development will have a better explanation)</span></div></b><br>"
+                    ],
+                    "guid": "clg;zXuRuD",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the government revenue from tariffs argument for supporting trade protection?",
+                        "<b><div><span style=\"font-weight: 400;\">7. </span>Government Revenue from Tariffs: <span style=\"font-weight: 400;\">The opportunity cost of removing the tariff and losing out on that tax revenue from which governments can subside merit goods and provide public goods.&nbsp;</span></div></b><br>"
+                    ],
+                    "guid": "K8I%fO!O1i",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the misallocation of reasources argument for free-trade?",
+                        "<b><div><b><ol><li><div>Misallocation of Resources<span style=\"font-weight: 400;\">: Trade de-liberalisation can lead to the misallocation of resources by protecting inefficient industries. Instead of allowing resources to flow to the most competitive sectors, protectionist measures can keep unproductive firms afloat, hindering overall economic growth.</span></div></li></ol></b></div></b>"
+                    ],
+                    "guid": "vB}VGVwBg;",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the retaliation argument for supporting free-trade?",
+                        "<b><ol><li><div>Retaliation<span style=\"font-weight: 400;\">: Countries that face trade barriers may respond with their own protectionist measures, leading to a trade war. This can escalate tensions and result in broader economic consequences, negatively affecting global trade relationships.</span></div></li></ol></b>"
+                    ],
+                    "guid": "NbyhxP<r>7",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the higher price &amp; lower choice argument for supporting free-trade?",
+                        "<b><ol><li><div>Higher Prices &amp; Less Choice<span style=\"font-weight: 400;\">: Trade barriers often result in higher prices for consumers, as protected industries may lack the incentive to lower costs. Additionally, consumers face fewer choices when foreign goods are restricted, limiting access to diverse products.</span></div></li></ol></b>"
+                    ],
+                    "guid": "tAtUEALkn+",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the lack of incentive argument for free-trade",
+                        "<b><ol><li><div>Lack of Incentive to be Competitive, Efficient, and to Innovate<span style=\"font-weight: 400;\">: When local industries are shielded from foreign competition, there may be less motivation to improve efficiency or innovate. This can lead to stagnation in industries that could otherwise thrive in a competitive environment, ultimately harming economic progress.</span></div></li></ol></b>"
+                    ],
+                    "guid": "kOEc%Dwq90",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is economic integration?",
+                        "<b><div>Economic Integration<span style=\"font-weight: 400;\"> refers to the cooperation and coordination between countries’ trade policies to collectively reduce trade barriers.&nbsp;</span></div></b><br>"
+                    ],
+                    "guid": "GTA_fw7zGS",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a preferential trade agreement (PTA) ?",
+                        "<b><div><span style=\"font-weight: 400;\">A</span> Preferential Trade Agreement<span style=\"font-weight: 400;\"> (henceforth PTA), is an agreement between 2 or more countries to lower trade barriers between them on particular products in trade between them. For PTAs, trade barriers may remain on the rest of the products, and on imports from countries not part of the agreement. The result is that members of the trade agreement have easier access to specific goods part of the agreement.&nbsp;</span></div></b><br>"
+                    ],
+                    "guid": "u0B&<z4QcI",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are trading blocs?",
+                        "<b>Trading Blocs: <span style=\"font-weight: 400;\">Trading blocs are a group of countries that have decided to reduce tariffs and other barriers for the purpose of encouraging freer trade.</span></b>"
+                    ],
+                    "guid": "c&yypbjK],",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a Free Trade Area, give an example of one, and give a disadvantage of them?",
+                        "<b><div>Free Trade Agreements (FTAs) : <span style=\"font-weight: 400;\">These refer to the situation where a group of countries decide to reduce trade barriers, but keep their own independent trade policies towards foreign countries. An example would be NAFTA (North American Free Trade Agreement) between Canada, the USA, and Mexico.&nbsp;</span></div><br><div><span style=\"font-weight: 400;\">One very big problem with this type of trade architecture is that countries can still indirectly sell their goods and services to countries that prevent it. This is done by trading to a country in the FTA with less barriers to foreign trade, and then the country then sells to the other country in the FTA.&nbsp;&nbsp;</span></div></b><br>"
+                    ],
+                    "guid": "sQdtjp@5V>",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a customs union, give an example, and give a disadvantage",
+                        "<b><div>Customs Unions :<span style=\"font-weight: 400;\"> These are a type of trading bloc that are more liberalised than FTAs. They fulfil the requirements of an FTA, which entails the reduction of trade restrictions between member countries, while also adopting the same common policies towards countries not part of the agreement.&nbsp;</span></div><br><div><span style=\"font-weight: 400;\">Each country is no longer able to determine its own policy towards other countries, leading to a loss in sovereignty. But since all countries have to adopt the same policies it entails a higher degree of economic integration.&nbsp;</span></div></b><br>"
+                    ],
+                    "guid": "z&.-oi?:IS",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a common market, give an example, and give a disadvantage",
+                        "<b><div>Common markets<span style=\"font-weight: 400;\">: This is the 3rd and final type of trading blocs. It fulfils all the requirements of a customs union, meaning that all countries have limited trade barriers between them for certain goods while also adopting the same common policy to external countries. In addition to this, common markets eliminate all restrictions on the movement of factors of production FOPs between them.</span></div><br><div><span style=\"font-weight: 400;\">Labour and capital are free to move within these countries and find employment opportunities. Not only does this mean lower price, better quality, and greater choice, but it also means that FOPs are used better.</span></div><br><div><span style=\"font-weight: 400;\">If, for example, one country has high unemployment but high demand for labour (shortage of labour) then workers from other countries can move there and find work. </span></div></b><br>"
+                    ],
+                    "guid": "P1yMkKOVKR",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is trade creation argument for evaluating trading blocs?",
+                        "<b><ul><li><div>Trade Creation: <span style=\"font-weight: 400;\">As a result of economic integration and trade agreements, trading patterns inevitably change. This refers to the situation where higher cost imports from some countries are replaced with lower cost imports from countries in the same trade agreement.&nbsp;</span></div></li></ul></b>"
+                    ],
+                    "guid": "i)ABntnAp6",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the efficiency &amp; economies of scale argument for supporting trading blocs?",
+                        "<b><ul><li><div>Economies of Scale &amp; Efficiency: <span style=\"font-weight: 400;\">With the lowering of trade barriers between a trading bloc, firms are collectively likely to output more goods and services. In the long-run, as firms grow in size, this allows them to take advantage of economies of scale and achieve lower average costs. This also leads to more efficient production of goods and services, as inefficient firms are forced to close down (they are not saved by trade protection.)</span></div></li></ul></b>"
+                    ],
+                    "guid": "zvGImdc2%o",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the FOP argument for supporting trading blocs",
+                        "<b><ul><li><div>Better use of FOPs and better employment opportunities: <span style=\"font-weight: 400;\">Labour and capital are free to move within these countries and find employment opportunities. Not only does this mean lower price, better quality, and greater choice, but it also means that FOPs are used better.</span></div></li></ul></b>"
+                    ],
+                    "guid": "t1tc?]upte",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the increased investment argument for supporting trading blocs?",
+                        "<b><ul><li><div>Increased investment: <span style=\"font-weight: 400;\">Larger markets create incentives for MNCs or local firms to set up production locally within the trading bloc to avoid tariffs if they sell outside. This leads to increased investment expenditure into the country.&nbsp;</span></div></li></ul></b>"
+                    ],
+                    "guid": "JsemX~vhY|",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the stronger bargaining power argument for supporting trading blocs?",
+                        "<b><ul><li><div>Stronger bargaining power:<span style=\"font-weight: 400;\"> with other countries.</span></div></li></ul></b>"
+                    ],
+                    "guid": "y#8.-f-}ed",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the trade diversion argument against trading blocs?",
+                        "<b><ul><li><div>Trade Diversion: <span style=\"font-weight: 400;\">In the same way trade can be created through trading blocs, trade can be also diverted away from trading blocs. This is because lower cost imports are replaced with higher cost imports from countries in the same trading bloc, as there is a tendency to favor them over foreign firms. Also if the same common policy is adopted, foreign options could become more expensive</span></div></li></ul></b>"
+                    ],
+                    "guid": "b:Y0/yxFlX",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the soveriegnty argument against trading bloc?",
+                        "<b><ul><li><div>Loss of Sovereignty<span style=\"font-weight: 400;\">: Economic integration itself entails a loss in sovereignty. This is because each country no longer acts as a sovereign individual, instead having to comply with the demands of the bloc as a whole. This includes foreign policy and political stances in an effort to reduce friction.&nbsp;</span></div></li></ul></b>"
+                    ],
+                    "guid": "CT]Bab8lu}",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the unequalness arguement against trading blocs?",
+                        "<b><ul><li><div>Unequal gains and possible losses: <span style=\"font-weight: 400;\">Countries forming a trade bloc are unlikely to benefit equally as a result of the trade bloc, and this creates conflict between members. Some countries may even suffer a net loss as a result of the formation of a trading bloc.&nbsp;</span></div></li></ul></b>"
+                    ],
+                    "guid": "LZrva)QwSE",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a Monetary Union?",
+                        "<b><div><span style=\"font-weight: 400;\">Monetary Union: A monetary union involves a far greater degree of economic integration than a common market, and it occurs when a country adopts the same central bank and the same currency</span></div></b><br>"
+                    ],
+                    "guid": "yAhFP2g<RW",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the exchange rate advantage of monetary unions?",
+                        "<b><ol><li><div><span style=\"font-weight: 400;\">A common currency eliminates the risk of exchange rate changes between member countries.</span></div></li><li><div><span style=\"font-weight: 400;\">Therefore, it reduces uncertainties for traders and investors, who might have needed to predict future exchange rates.</span></div></li><li><div><span style=\"font-weight: 400;\">Further, this stability encourages trade and investment within the union as:</span></div></li><ol><li><div><span style=\"font-weight: 400;\">It removes the hassle of exchanging currencies, benefitting importers and exporters.</span></div></li><li><div><span style=\"font-weight: 400;\">This leads to easy trade and investments, which helps achieve a more efficient allocation of resources.</span></div></li></ol></ol></b>"
+                    ],
+                    "guid": "uzd*G.K0Z@",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the price transparancy advantage of a monetary union",
+                        "<b><ol><li><div><span style=\"font-weight: 400;\">This is the ability for producers and consumers to be able to perform price comparisons in any member country without having to do calculations or conversions.</span></div></li><li><div><span style=\"font-weight: 400;\">Therefore, it allows economic decision-makers to observe price differences and price comparisons which is more accurate and faster to retrieve.</span></div></li><li><div><span style=\"font-weight: 400;\">This could lead to promoting competition and efficiency, which could cause lower prices for consumers.</span></div></li></ol></b>"
+                    ],
+                    "guid": "fuE>(t^6SQ",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the conversion advantage of monetary unions?",
+                        "<b><ol><li><div><span style=\"font-weight: 400;\">Both consumers and producers save money by not needing to exchange currencies and pay a fee to the bank or institution for the conversions.</span></div></li><li><div><span style=\"font-weight: 400;\">These savings can be significant and could lead to further trade and investments.</span></div></li></ol></b>"
+                    ],
+                    "guid": "C:LIvDGg4T",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the inward investment advantage for Monetary Union?",
+                        "<b><ol><li><div><span style=\"font-weight: 400;\">The absence of exchange rate risks makes monetary unions more appealing for foreign direct investment (FDI).</span></div></li><li><div><span style=\"font-weight: 400;\">Therefore, with higher FDI, there will be higher economic growth and job creation.</span></div></li></ol></b>"
+                    ],
+                    "guid": "zBBL8RQ<Rg",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the inflation advantage of a Monetary Union?",
+                        "<b><ol><li><div><span style=\"font-weight: 400;\">Unlike normal cases, member countries cannot depreciate the currency (since there isn't a domestic currency) if they have a high rate of inflation, hence a current account deficit.</span></div></li><li><div><span style=\"font-weight: 400;\">Thus, all member countries are committed to keeping a low rate of inflation.</span></div></li><li><div><span style=\"font-weight: 400;\">This provides a multitude of important benefits:</span></div></li><ol><li><div><span style=\"font-weight: 400;\">Low rates of interest</span></div></li><li><div><span style=\"font-weight: 400;\">Higher levels of investments</span></div></li><li><div><span style=\"font-weight: 400;\">Higher production output</span></div></li></ol></ol></b>"
+                    ],
+                    "guid": "Ep)%v3[s[D",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a the monetary policy disadvantage of a monetary union?",
+                        "<b><ol><li><div><span style=\"font-weight: 400;\">Each member country cannot change the level of economic activity, in particular the interest rate by implementing its own monetary policies.</span></div></li><li><div><span style=\"font-weight: 400;\">This is because monetary policies are set by the central common bank.</span></div></li><li><div><span style=\"font-weight: 400;\">Therefore, each member country will have difficulties to correct its economic challenges such as low/high inflation, unemployment, etc.</span></div></li></ol></b>"
+                    ],
+                    "guid": "j%;8NsWd{Z",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the loss of exchange rate disadvantage of a Monetary Union?",
+                        "<b><ol><li><div><span style=\"font-weight: 400;\">The member country can no longer depreciate the currency to correct a trade deficit as it does not have a national currency anymore.</span></div></li><li><div><span style=\"font-weight: 400;\">Further, it cannot solve high risks of inflation using currencies.</span></div></li><li><div><span style=\"font-weight: 400;\">This lack of flexibility or options can make it harder to respond to economic shocks as it has to rely on fiscal policies to correct any imbalances.</span></div></li></ol></b>"
+                    ],
+                    "guid": "Q1:Pv[}Pvb",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the loss of sovereignty disadvanage of Monetary Unions?",
+                        "<b><ol><li><div><span style=\"font-weight: 400;\">Mentioned previously, there are no national central banks for each member country and national governments are unable to implement policies freely due to convergence requirements.</span></div></li><li><div><span style=\"font-weight: 400;\">Rather, the central bank and an independent body implements and oversees policies. This is a severe loss of sovereignty.</span></div></li></ol></b>"
+                    ],
+                    "guid": "iNuJnBaeZG",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the convergence disadvantage of a monetary union?",
+                        "<b><ol><li><div><span style=\"font-weight: 400;\">Even though each member country still has abilities to implement its own fiscal policies, there are convergence requirements that the countries need to adhere to.</span></div></li><li><div><span style=\"font-weight: 400;\">Factors such as setting limits on total public debt budget deficits, etc limit the extent or level of fiscal policies member countries can implement.</span></div></li><li><div><span style=\"font-weight: 400;\">Convergence requirements is often debated as:</span></div></li><ol><li><div><span style=\"font-weight: 400;\">Many member countries view it as an advantage since it enforces fiscal discipline.</span></div></li><li><div><span style=\"font-weight: 400;\">Whilst, many believe it acts as a restriction of the authority or sovereignty of a country's government</span></div></li></ol></ol></b>"
+                    ],
+                    "guid": "c|MX<w`yn0",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the WTO (World Trade Organisation) and what is it responsible for doing?",
+                        "<b><div><span style=\"font-weight: 400;\">The World Trade Organisation: The WTO is an organisation responsible for liberalization and the freeing up trade between countries. It has the following functions:</span></div><div><b><ol><li><div><span style=\"font-weight: 400;\">Handling trade disputes ad finds ways to resolve disputes when they occur between members of the WTO</span></div></li><li><div><span style=\"font-weight: 400;\">Administers trade agreements. The WTO helps in the implementation and creation of trade agreements.</span></div></li><li><div><span style=\"font-weight: 400;\">Monitors international trade policies. The WTO carries reviews to make sure all member nations are remaining compliant with their trade regulations.</span></div></li></ol></b></div></b><br>"
+                    ],
+                    "guid": "bL_g?UFrsa",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Name the critisisms of the WTO",
+                        "<b><ul><li><div><span style=\"font-weight: 400;\">The WTO’s members have very unequal bargaining power within the organisation itself. While each country has one vote in the WTO, people argue it is still undemocratic because economically, if less powerful companies do not give into the agendas set by powerful companies, they risk retaliation. Additionally, the formation of coalitions where strong countries group up.</span></div></li><li><div><span style=\"font-weight: 400;\">Difficulty reaching agreements with primary commodities.The WTO has been unable to reach an agreement on the protection of primary commodities. Developed countries have long been protecting their farmers with export and production subsidies, causing a lot of damage to developing countries.</span></div></li></ul></b>"
+                    ],
+                    "guid": "I;0IYHJOk>",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.4",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the foreign exchange?",
+                        "<b><div>Foreign exchange<span style=\"font-weight: 400;\"> is the exchange of currency for other currencies by firms, governments, and individuals. This typically happens on a ForEx market and entities ‘sell’ or supply their currency to ‘buy’ or demand another currency.</span></div></b><br>"
+                    ],
+                    "guid": "poRyFdu~IJ",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.5",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the floating exchange rate system and draw a relavent diagram.",
+                        "<b><div><span style=\"font-weight: 400;\">The </span>Floating Exchange Rate System<span style=\"font-weight: 400;\">: In a floating exchange rate system, the exchange rate between currencies are determined by the forces of demand and supply. The government plays no part in determining the exchange rate.&nbsp;&nbsp;</span></div><div><span style=\"font-weight: 400;\"><br></span></div><div><b><span style=\"font-weight: 400;\"><img src=\"AD_4nXdi6buF1AlA_OCwjwXydHrw2-3-nnizF2fiV6tO5w7UigCQyvWI3tLFX4dbPVYqwzZ08SS4h1qeY9PCQn7cRgKYv4b1oclxcPgnmvMS_zz2Epn.png\"></span></b><span style=\"font-weight: 400;\"><br></span></div></b><br>"
+                    ],
+                    "guid": "P`Ix6nNTF~",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.5",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is currency appreciation?",
+                        "<b><div>Appreciation<span style=\"font-weight: 400;\"> is the situation where one currency increases in value relative to another currency; one unit of said currency can be exchanged for more units of another currency. This is due to an increase in demand for the currency or reduction in supply.&nbsp;</span></div></b><br>"
+                    ],
+                    "guid": "Qt5O(V*,JU",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.5",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "w",
+                        "w"
+                    ],
+                    "guid": "Nxv@k/>6!1",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
