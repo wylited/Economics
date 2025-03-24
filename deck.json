@@ -558,12 +558,12 @@
                     "__type__": "Note",
                     "fields": [
                         "What is import substituion&nbsp;",
-                        "<b><ul><li><div><span style=\"font-weight: 400;\">Import substitution: this is when a country begins to manufacture goods and services domestically to promote its domestic industry and decrease its reliance on imported goods.&nbsp;</span></div></li></ul></b>"
+                        "When a country begins to manufacture goods and services domestically to promote its domestic industry and decrease its reliance on imported goods."
                     ],
                     "guid": "Nxv@k/>6!1",
                     "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
                     "tags": [
-                        "2.10",
+                        "4.10",
                         "AO2"
                     ]
                 },
@@ -1106,7 +1106,22 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "5PTmTIwtKqCzBohK_ikz0obPfRMGEXDIIwDk8M1_Lemz-nYndV13WAsXl2st5GMxVzey6ntJhbxSVDzUzrrNr6zW-dUOkh805yV5rRMFwZX2dfzfyZS.png"
+                "25GEW2WfT8rwEk50oQO_cyDQk-UCEd3ME3CG1ael5VfXwRbO2AyhOOj8uBlIXJQ_ZNcbQ7A6Yr-hsPT_XRhZzdY=w16383.png",
+                "5PTmTIwtKqCzBohK_ikz0obPfRMGEXDIIwDk8M1_Lemz-nYndV13WAsXl2st5GMxVzey6ntJhbxSVDzUzrrNr6zW-dUOkh805yV5rRMFwZX2dfzfyZS.png",
+                "nONnHVRDj7GCSzMnUX9m--Q8CmNdc0dU9unOQCSNi6otFxKwHaSf4RUCM0cTdTKYV3y45KKepPwavWinldC4Rq0=w16383.png",
+                "paste-0f9cbe23f2fd6ffd4b90e462cb288bcce4444044.png",
+                "paste-3310b51bb64abfa5e614b3a6660434f97c8e0c76.png",
+                "paste-3c9ed97fa88dd1917fd82a8f2cdb4cd9627033c3.png",
+                "paste-6de0fd3d3add99fe0bdde82de78c576785f86ad9.png",
+                "paste-93bcab511c6a7d06577c9e5b78d22adab5dd361b.png",
+                "paste-aa407b8fb17cf4821fa7ad04c248a67868e1d038.png",
+                "paste-b6d148bd01ce53e01afa43e01fe8c7d09e1b38d9.png",
+                "paste-d0ea7ef427c3dfbfcbab5d679db9e291eaafb5af.png",
+                "paste-dd942fc6d296a214b79cd06f946e23a775cc691c.png",
+                "paste-eedad06da8dd31a897ffe0208b44fe5d26cae843.png",
+                "paste-f37fba9c821d9bc09b334800cc0903437263943a.png",
+                "paste-f83d78c8e44b507f75be84eed5d428a63731ee0f.png",
+                "s8mafm2b5ITGhmk7CG7CRW6wuxivawG7dINhtZi7M5No1w2h7oOqmdBLOZ7Pde1hRNOzwf91AioHfZ_KQKhID3DAHUzuNfwJT3UuSqoRFxekzrzWCwg.png"
             ],
             "name": "Microeconomics",
             "newLimit": null,
@@ -1228,6 +1243,706 @@
                     "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
                     "tags": [
                         "2.2",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The Supply Curve",
+                        "<img src=\"s8mafm2b5ITGhmk7CG7CRW6wuxivawG7dINhtZi7M5No1w2h7oOqmdBLOZ7Pde1hRNOzwf91AioHfZ_KQKhID3DAHUzuNfwJT3UuSqoRFxekzrzWCwg.png\" style=\"float: right;\"><div><div><div><div><div><div><div><div></div><h2><div><div></div></div></h2></div></div></div></div></div></div></div><ul><li><div>An upwards-sloping supply line labelled S</div></li><li><div>\"Price\" in a currency on the y-axis</div></li><li><div>\"Quantity Supplied\" in a relevant unit on the x-axis</div></li><li><div>Arrows on both axe</div></li></ul>"
+                    ],
+                    "guid": "cntjm>4{N%",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.2",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Individual vs. Market Supply",
+                        "Market supply is the combined supply by every individual firm in a market at a certain price."
+                    ],
+                    "guid": "6nL%GQ1p(",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.2",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Non-price determinants of Supply",
+                        "<ol><li>Changes in costs of factors of production</li><li>Prices of related goods</li><li>Indirect taxes and subsidies</li><li>Future price expectations</li><li>Technology</li><li>Number of firms (for market supply ONLY)</li></ol>"
+                    ],
+                    "guid": "Q>,xlO87%f",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.2",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Factors of production and their incomes.",
+                        "<ul><li>Capital, Interest</li><li>Enterprise, Profit<br></li><li>Land, Rent</li><li>Labour, Wages</li></ul>"
+                    ],
+                    "guid": "P^>*m<x**o",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.2",
+                        "AO1",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consumer Surplus",
+                        "The gain of all consumers who can consume a product at a lower price than what they were willing and able to pay."
+                    ],
+                    "guid": "mVWR^>TI1%",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Producer Surplus</div>",
+                        "The gain of all producers who can produce a product at a higher price than what they were willing and able to earn."
+                    ],
+                    "guid": "Jm>Xh|m-eA",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.3",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consumer Surplus Diagram + Calculations",
+                        "<div><img alt=\"https://lh4.googleusercontent.com/nONnHVRDj7GCSzMnUX9m--Q8CmNdc0dU9unOQCSNi6otFxKwHaSf4RUCM0cTdTKYV3y45KKepPwavWinldC4Rq0=w16383\" src=\"nONnHVRDj7GCSzMnUX9m--Q8CmNdc0dU9unOQCSNi6otFxKwHaSf4RUCM0cTdTKYV3y45KKepPwavWinldC4Rq0=w16383.png\" style=\"float: right;\"><ul><li>Top half of the diagram</li><li>Surplus = Q(P<sub>max</sub>&nbsp;- P)/2<br></li></ul></div>"
+                    ],
+                    "guid": "KLQ%DlO#&F",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.3",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Producer Surplus Diagram and Calc",
+                        "<img alt=\"https://lh6.googleusercontent.com/25GEW2WfT8rwEk50oQO_cyDQk-UCEd3ME3CG1ael5VfXwRbO2AyhOOj8uBlIXJQ_ZNcbQ7A6Yr-hsPT_XRhZzdY=w16383\" src=\"25GEW2WfT8rwEk50oQO_cyDQk-UCEd3ME3CG1ael5VfXwRbO2AyhOOj8uBlIXJQ_ZNcbQ7A6Yr-hsPT_XRhZzdY=w16383.png\" style=\"float: right;\"><ul><li>Bottom half triangle.</li><li>Q(P-P<sub>min</sub>)</li></ul>"
+                    ],
+                    "guid": "k~?gZmY$}w",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.3",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Community Surplus",
+                        "The sum of consumer and producer surplus"
+                    ],
+                    "guid": "yQF%.=2<DL",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.3",
+                        "AO2",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div><div></div></div></div><div><div><div><div><div><div><div><div></div><div><div></div></div></div></div></div></div></div></div></div>Allocative Efficiency (3 descriptions)<br>",
+                        "<ul><li>Maximizing Social Surplus</li><li>MC = MB (marginal costs and benefits)<br></li><li>No Deadweight Loss</li></ul>"
+                    ],
+                    "guid": "u8jg%I>bpl",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.3",
+                        "AO2",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consumer Behaviour Assumptions",
+                        "<ul><li>Consumer rationality: Choices made are best for themselves</li><li>Utility maximization: Consumers prioritize utility in economic goods.</li><li>Perfect information: Consumers know everything about the market.</li></ul>"
+                    ],
+                    "guid": "E3zAnatc<q",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.4",
+                        "AO3",
+                        "HL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consumer Behaviour Assumption Critiques",
+                        "<ul><li><span style=\"font-weight: 700;\">Availability</span>: Some consumers overestimate the likelihood of an occurrence, and make decisions based on that&nbsp;</li><li><div><span style=\"font-weight: 700;\">Anchoring and framing</span>: What goods a consumer sees first may affect what they think about new goods they see</div></li><li><div><span style=\"font-weight: 700;\">Rule of thumb</span>: Some consumers use rules of thumb instead of comparing every good in a market</div></li><li><div><span style=\"font-weight: 700;\">Bounded rationality</span>: Consumers are never perfectly rational, and will make irrational decisions sometimes</div></li><li><div><span style=\"font-weight: 700;\">Bounded self-control</span>: Consumers often let other people influence their decisions</div></li><li><div><span style=\"font-weight: 700;\">Bounded selfishness</span>: Consumers are not always selfish, and will sometimes make economic decisions that help others more than themselves</div></li><li><div><span style=\"font-weight: 700;\">Imperfect information</span>: Consumers don't know everything about the market and all products, and may even be misled to purchase things</div></li></ul>"
+                    ],
+                    "guid": "MQ$Cu9:m)Y",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.4",
+                        "AO3",
+                        "HL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "&nbsp;Nudge Theory",
+                        "The theory that consumer choice can be influenced by modifying the decision-making environment."
+                    ],
+                    "guid": "s(7YjN!V+{",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.4",
+                        "AO3",
+                        "HL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Business Objectives",
+                        "Profit maximization, minimize costs, maximize revenue as profit = revenue - cost."
+                    ],
+                    "guid": "Ouc*_bcGQp",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.4",
+                        "AO3",
+                        "HL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alternative Business Objectives",
+                        "<ul><li><div><b>Corporate Social Responsibility</b>: When firms commit to ethical and environmental pledges to act responsibly for society</div></li><li><div><b>Market share</b>: What percentage of a market the firm has. Firms want a larger market share, as this means they control more of the market</div></li><li><div><b>Satisficing</b>:\n Sometimes, firms do not want to maximize profits, because attempting to\n reach that point will lead to too many sacrifices. Instead, the firm \ntargets a point where they earn \"enough\"</div></li><li><div><b>Growth</b>: Firms want to increase their scale of operations and earn more profits.</div></li></ul>"
+                    ],
+                    "guid": "fbqeJ1F;wM",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.4",
+                        "AO3",
+                        "HL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Define elasticity of demand",
+                        "How responsive the quantity of demand for an economic good is when price or income changes."
+                    ],
+                    "guid": "p8P-FPudJd",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.5",
+                        "AO1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PED Formula",
+                        "PED = (%change in Q)/(%change in P)<br>((Q2-Q1)/(Q1))/((P2-P1)/(P1))<br>ALWAYS POSITIVE"
+                    ],
+                    "guid": "P<*RQo;7Sw",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.5",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degrees of PED",
+                        "<ul><li>PED = 0, perfectly inelastic demand</li><li>PED &lt; 1, inelastic demand</li><li>PED = 1, unitary price elastic demand</li><li>PED &gt; 1, price elastic demand</li><li>PED = ∞, perfectly elastic demand.</li></ul>"
+                    ],
+                    "guid": "vRFv[n_S$=",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.5",
+                        "AO2",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Determinants of PED",
+                        "<ul><li>Number of substitutes</li><li>Degree of necessity</li><li>Price proportion to disposable income</li><li>Time</li></ul>"
+                    ],
+                    "guid": "ftA%+pCX$x",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.5",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Relationship between PED and total revenue",
+                        "If demand is price inelastic, it's lucrative to increase prices to maximize revenue<br>If demand is price elastic, it's lucrative to decrease prices to maximize revenue<br>So business should use the PED of their good to maximize revenue."
+                    ],
+                    "guid": "Ol?Zz}eF#g",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.5",
+                        "AO2",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why does PED matter for governments.",
+                        "PED is directly proportional to the effectiveness of the tax or subsidy."
+                    ],
+                    "guid": "cM*727TG.4",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.5",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "YED Formula",
+                        "YED = (%change in Q)/(%change in income)<br>((Q2-Q1)/(Q1))/((Y2-Y1)/(Y1))"
+                    ],
+                    "guid": "K{L}FU/j*s",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.5",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Types of YED",
+                        "<ul><li>Inferior goods, YED &lt; 0&nbsp;</li><li>Normal goods, YED &gt; 0</li><li>Necessities, 0 &lt; YED &lt; 1</li><li>Luxuries, YED &gt; 1</li></ul>"
+                    ],
+                    "guid": "lW6qzIlg>x",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.5",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Inferior goods Engel curve",
+                        "<img src=\"paste-0f9cbe23f2fd6ffd4b90e462cb288bcce4444044.png\">"
+                    ],
+                    "guid": "P]![YCn1G5",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.5",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Necessities Engel Curve",
+                        "<img src=\"paste-eedad06da8dd31a897ffe0208b44fe5d26cae843.png\">"
+                    ],
+                    "guid": "Qe;*Z,gs0V",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.5",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Luxuries Engel Curve",
+                        "<img src=\"paste-93bcab511c6a7d06577c9e5b78d22adab5dd361b.png\">"
+                    ],
+                    "guid": "o!lPK[Q]7-",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.5",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Importance of YED",
+                        "Firms<br><ol><li>Inferior goods tend to do bad, but can benefit from economic crises</li><li>Luxury goods typically do well, but can dramatically fall during economic crises.</li></ol><div>Sectoral</div><div><ol><li>Primary sector has a negative YED as its not as important as income increases</li><li>Secondary sector positive YED</li><li>Tertiary sector positive YED</li></ol></div>"
+                    ],
+                    "guid": "q67v3r=p,R",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.5",
+                        "AO3",
+                        "HL"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "PES Formula",
+                        "PES = (%change in Q)/(%change in P)<br>((Q2-Q1)/(Q1))/((P2-P1)/(P1))"
+                    ],
+                    "guid": "P77<Gy:T$q",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.6",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degrees of PES",
+                        "<ul><li>PES = 0, perfectly inelastic demand</li><li>PES &lt; 1, inelastic demand</li><li>PES = 1, unitary price elastic demand</li><li>PES &gt; 1, price elastic demand</li><li>PES = ∞, perfectly elastic demand.</li></ul>"
+                    ],
+                    "guid": "cm03_>Mq(b",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.6",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Determinants of PES",
+                        "<ul><li>Time</li><li>Mobility of Factors of Production</li><li>Unused capacity</li><li>Ability to store</li><li>Rate at which costs rises (marginal costs)</li></ul>"
+                    ],
+                    "guid": "II7p[!{|A%",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.6",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Reasons for Government Intervention",
+                        "<ol><li><div>Earn government revenue</div></li><li><div>Support firms</div></li><li><div>Support households on low incomes</div></li><li><div>Influence the level of production</div></li><li><div>Influence the level of consumption</div></li><li><div>Correct market failures</div></li><li><div>Promote equity</div></li></ol>"
+                    ],
+                    "guid": "G5@zyZ[%b.",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.7",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Forms of Government Intervention",
+                        "<ul><li>Price Control, Floors and Ceilings</li><li>Indirect Taxes and Subsidies</li><li>Direct Provision</li><li>Legislation</li><li>Consumer Nudges (HL)</li></ul>"
+                    ],
+                    "guid": "P`Z`o@$llI",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.7",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Price floor&nbsp;diagram",
+                        "<img src=\"paste-f83d78c8e44b507f75be84eed5d428a63731ee0f.png\" style=\"float: right;\">Minimum prices set by the government. This can be done on goods and services like labor (minimum wage)."
+                    ],
+                    "guid": "FJx#ZfLw^p",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.7",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Price Ceiling",
+                        "<img src=\"paste-aa407b8fb17cf4821fa7ad04c248a67868e1d038.png\" style=\"float: right;\">Maximum prices set by the government. This can be done on goods and services like housing rent."
+                    ],
+                    "guid": "y8OR%?)tPt",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.7",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Indirect Taxes",
+                        "Tax on consumption, thye make goods and services more expensive<img src=\"paste-3310b51bb64abfa5e614b3a6660434f97c8e0c76.png\" style=\"float: right;\">"
+                    ],
+                    "guid": "n3M?T?F#=Z",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.7",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Subsidy",
+                        "Government pays firms to make goods and services cheaper.<img src=\"paste-b6d148bd01ce53e01afa43e01fe8c7d09e1b38d9.png\" style=\"float: right;\">"
+                    ],
+                    "guid": "o<G<InyBV}",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.7",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consequences of Price Ceilings",
+                        "<ul><li>Lower price in free market</li><li>Shortage in supply, excess demand</li><li>Consumer Surplus increases</li><li>Producer Surplus decreases</li><li>Government may have to provide the good to mitigate the shortage.</li></ul>"
+                    ],
+                    "guid": "PU^|.N&r]7",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.7",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consequences of Price Floors",
+                        "<ul><li>Price will be higher</li><li>Excess supply, shortage of demand</li><li>Consumer surplus decreases</li><li>Producer surplus increases</li><li>Government may have to buy the surplus</li></ul>"
+                    ],
+                    "guid": "fX<SPB=b:W",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.7",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consequences of Indirect Taxation",
+                        "<ul><li>Price increases</li><li>Demand decreases</li><li>Consumer and Producer surplus decreases</li><li>Government tax revenue increases&nbsp;</li></ul>"
+                    ],
+                    "guid": "d7FN1gvb[<",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.7",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consequences of Subsidies",
+                        "<ul><li>Price decreases</li><li>Demand increases<br></li><li>Consumer and Producer surplus increases</li><li>Government burden + opp. cost.</li></ul>"
+                    ],
+                    "guid": "iX_#Ff:iI,",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.7",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Allocative Efficiency Diagram",
+                        "<img src=\"paste-dd942fc6d296a214b79cd06f946e23a775cc691c.png\">"
+                    ],
+                    "guid": "jyE&*Fr*BL",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.8",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Positive Externalities",
+                        "Benefits or positive spillover effects&nbsp;caused by producers or consumers on to a third party"
+                    ],
+                    "guid": "gz3HN.EFca",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.8",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Diagram for Positive Externalities of Consumption",
+                        "<img src=\"paste-f37fba9c821d9bc09b334800cc0903437263943a.png\">"
+                    ],
+                    "guid": "n*Hhmp9I|/",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.8",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Diagram for Positive Externalities of Production",
+                        "<img src=\"paste-3c9ed97fa88dd1917fd82a8f2cdb4cd9627033c3.png\">"
+                    ],
+                    "guid": "p?Z04FXsf@",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.8",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Negative Externalities",
+                        "Costs or negative spillover effects caused by producers or consumers but passed on to a third party"
+                    ],
+                    "guid": "K$}Wybulb&",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.8",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Diagram for Negative Externalities of Consumption",
+                        "<img src=\"paste-6de0fd3d3add99fe0bdde82de78c576785f86ad9.png\">"
+                    ],
+                    "guid": "d;g:2<7=6n",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.8",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Diagram for negative externalities of production",
+                        "<img src=\"paste-d0ea7ef427c3dfbfcbab5d679db9e291eaafb5af.png\">"
+                    ],
+                    "guid": "gy0[C0EK0-",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.8",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Common pool resources",
+                        "Resources that are:<br><ul><li>Non-excludable</li><li>Rivalrous</li></ul>"
+                    ],
+                    "guid": "k0c!@c5&-8",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.8",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How governments can correct externalities",
+                        "<ul><li>Indirect taxes</li><li>Carbon taxes</li><li>Subsidies</li><li>Regulation/Legislation</li><li>Tradable permits</li><li>International agreements</li><li>Education/Awareness</li><li>Collective Self Governance</li><li>Direct Government Provision</li></ul>"
+                    ],
+                    "guid": "C>>BvB@KG*",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.8",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of government policies",
+                        "<ul><li>It is difficult to measure externalities</li><li>They aren't always effective</li><li>Consequences for stakeholders</li></ul>"
+                    ],
+                    "guid": "csnRr~N~Ck",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.8",
+                        "AO3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Public goods",
+                        "<ul><li>Non-excludable</li><li>Non-rivalrous</li></ul>"
+                    ],
+                    "guid": "h`(UMY-:&^",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.9",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Free-rider Problem",
+                        "The burden on a shared resource that is created by its use or overuse by people who aren't paying their fair share for it, or who aren't paying anything at all"
+                    ],
+                    "guid": "miWZ&7O^VJ",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.9",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Government Intervention for Public Goods",
+                        "<ul><li>Direct Provision</li><li>Contracting</li></ul>"
+                    ],
+                    "guid": "AfKy:-8-h3",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.9",
                         "AO2"
                     ]
                 }
