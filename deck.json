@@ -11,7 +11,11 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "AD_4nXdi6buF1AlA_OCwjwXydHrw2-3-nnizF2fiV6tO5w7UigCQyvWI3tLFX4dbPVYqwzZ08SS4h1qeY9PCQn7cRgKYv4b1oclxcPgnmvMS_zz2Epn.png"
+                "AD_4nXdi6buF1AlA_OCwjwXydHrw2-3-nnizF2fiV6tO5w7UigCQyvWI3tLFX4dbPVYqwzZ08SS4h1qeY9PCQn7cRgKYv4b1oclxcPgnmvMS_zz2Epn.png",
+                "paste-0b61ff42a413135579433a8620e201ba29a20c33.jpg",
+                "paste-2bb450accde0562be57e997c0456bd55b8d4c57a.jpg",
+                "paste-5685847fac635d6fcff54025f640640803534b37.jpg",
+                "paste-c69c092a1e0dfc8896ba387530d42de0c87a91eb.jpg"
             ],
             "name": "Global Economy",
             "newLimit": null,
@@ -553,12 +557,506 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "w",
-                        "w"
+                        "What is import substituion&nbsp;",
+                        "<b><ul><li><div><span style=\"font-weight: 400;\">Import substitution: this is when a country begins to manufacture goods and services domestically to promote its domestic industry and decrease its reliance on imported goods.&nbsp;</span></div></li></ul></b>"
                     ],
                     "guid": "Nxv@k/>6!1",
                     "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "2.10",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is export promotion?",
+                        "<b><span style=\"font-weight: 400;\">&nbsp;</span><span style=\"font-weight: 400;\">Aims to increase the level of exports through subsidies or facilitating international trade fairs at which local firms can connect with international buyers.</span></b>"
+                    ],
+                    "guid": "z.v:G$wZCP",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Name the factors affecting exports in currency demand (3)",
+                        "<b><ul><li><div><span style=\"font-weight: 400;\">Foreign demand of goods and services: This increases export revenue, leading to local currency to be more demanded by foreign countries. Hence, currency appreciates.</span></div></li><li><div>Relative rates of inflation: If the local rate of inflation is higher than the foreign one, exports become more expensive. This causes a reduction in demand for local currency, causing currency depreciation.</div></li><li><div><span style=\"font-weight: 400;\">Relative Growth rates: If Kenya’s trading partners experience higher economic growth, they are more likely to demand goods and services from Kenya. Thus demand for Kenya’s currency increases, causing currency appreciation.</span></div></li></ul></b>"
+                    ],
+                    "guid": "hU7]FDEM2?",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.5",
+                        "AO2",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Factors affecting investment in currency appreciation in demand (2)",
+                        "<b><ul><li><div><span style=\"font-weight: 400;\">Relative Interest rates: If the interest rate in one country is higher than another, it becomes a more favorable place for investment. This is because investors can earn a higher return, leading to currency appreciation due to increases in demand.</span></div></li><li><div><span style=\"font-weight: 400;\">FDI and portfolio investment: Both of these increase demand for the currency, leading to currency appreciation.&nbsp;</span></div></li></ul></b>"
+                    ],
+                    "guid": "E%!9c-BU/2",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.5",
+                        "AO2",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Other factors affecting currency appreciation in demand",
+                        "<b><ul><li><div><span style=\"font-weight: 400;\">Flow of remittances: Increase in </span>remittance<span style=\"font-weight: 400;\"> (transfer of money from a foreign country to another country, usually by workers wanting to send money back to their families) payments cause local currency demand to increase, leading to currency appreciation.</span></div></li><li><div><span style=\"font-weight: 400;\">Speculation: If someone expects a currency’s value to increase, they will buy that currency, increasing its demand. This actually causes it to increase itself.&nbsp;</span></div></li><li><div><span style=\"font-weight: 400;\">Central Bank Intervention: If the central bank wants currency appreciation, it will buy domestic currency with its existing foreign reserves. This causes demand for the currency to increase, and the currency to therefore appreciate.&nbsp;</span></div></li></ul></b>"
+                    ],
+                    "guid": "kc?_SHusgd",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.5",
+                        "AO2",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Factors affecting import expenditure affecting currency supply (3)",
+                        "<b><ul><li><div><span style=\"font-weight: 400;\">Domestic demand for imports: Changes in the demand for foreign imports lead to changes in supply of local currency. If imports increase, so does supply, thereby causing currency depreciation.&nbsp;</span></div></li><li><div>Relative inflation rates: If inflation is higher in one country than another, locally produced goods become more expensive. As a result it relies on imports, supplying currency and causing currency depreciation. This reinforces the effect from the export section.</div></li><li><div><span style=\"font-weight: 400;\">Relative Growth rates: If Kenya’s trading partners experience higher economic growth than Kenya, Kenya’s imports will decrease, causing supply of currency to decrease and currency to appreciate.</span></div></li></ul></b>"
+                    ],
+                    "guid": "KnGr9m,i5j",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.5",
+                        "AO2",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Factors affecting currency supply in investment",
+                        "<b><ul><li><div><span style=\"font-weight: 400;\">Relative Interest rates: If the interest rate in one country is higher than another, it becomes a more favorable place for investment. As a result, if this is the home country, investment inwards increases. Thus, less investment is done outwards, decreasing supply and causing currency appreciation.&nbsp;</span></div></li><li><div>Outward<span style=\"font-weight: 400;\"> FDI and portfolio investment: Investment in FDI and portfolio investment by a home country causes supply of currency to increase, causing currency depreciation.&nbsp;</span></div></li></ul></b>"
+                    ],
+                    "guid": "b}5k8{&rQN",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.5",
+                        "AO2",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Other factors affecting currency supply (3)",
+                        "<b><ul><li><div><span style=\"font-weight: 400;\">Speculation that another country's currency will increase: If another country’s currency is expected to increase, local currency is supplied for that currency. This increases supply for currency, causing currency depreciation.</span></div></li><li><div><span style=\"font-weight: 400;\">Outward remittances: More remittances out means more supply of currency outwards, causing more supply. Hence, supply increases and currency depreciation.</span></div></li><li><div><span style=\"font-weight: 400;\">Central bank intervention: If the central bank wants to cause currency depreciation, it sells its local reserves of currency (by buying foreign reserves) and this causes more supply and therefore currency depreciation.</span></div></li></ul><br></b>"
+                    ],
+                    "guid": "K^JjVV%6nY",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.5",
+                        "AO2",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What characterises poor people?",
+                        "- People who spend most of their income on necessities.&nbsp;<br>- People with very low levels of physical and human capital"
+                    ],
+                    "guid": "rI~&-e$iYh",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Draw and explain a fully labelled poverty cycle diagram",
+                        "<img src=\"paste-0b61ff42a413135579433a8620e201ba29a20c33.jpg\">&nbsp; Poverty is characterised by very low income relative to others, leading to low savings. With low savings, people in poverty are unavke to invest in proper nuitrition and education, limiting their human capital. Moreover, they aren't able to invest in tools and equipment leading to low physical capital. Additionally, they cannot invest in things like fertilizer to improve natural capital. This means that they are unproductive and therefore earn very little additional income, leading to low relative income. Thus the cycle repeats.&nbsp;"
+                    ],
+                    "guid": "t+:S?CVkX,",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Explain why income inequality is a barrier to economic growth",
+                        "This can be explained by considering the effects of the poverty cycle: low relative income means that citizens are unable to invest in human capital and physical capital, limiting their productivity and contribution to the economy. Additionally, people in poverty are often malnourished and are not in the best physical shape, making them unemployable and often sick. This means that governments will have to pay more in healthcare and unemployment fees, limiting the amount it can support buregoning firms with."
+                    ],
+                    "guid": "bNFAIjqtw0",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is infrastructure?",
+                        "Infrastructure is a type of physical capital, meaning it comes from investment expenditure, typically by the government. It refers to all goods or services tjat are necassary for a functioning economy: telecommunications, transport, roads, power, irrigation, drainage, and more. Most types of infrastructure are public goods with positive externalities of consumption."
+                    ],
+                    "guid": "d*78Kf4<cw",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is limited infrastructure a barrier to economic growth?",
+                        "Firms and citizens benefit heavlity from infrastructure to carry out economic actitivies. If infrastructure did not exists, average costs for firms would greatly increase and citizens would have to expend more to live. This means that firms would be less productive and less competative, and workers would have to demand higher wages (also making firms less competative as it increases their costs.)"
+                    ],
+                    "guid": "n?:|?!~sw+",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is limited access to appropriate technology a barrier to economic growth?",
+                        "Technology improves the productivity of physical capital, leading to greater output. But with this, it is important that developing countries consider the apporpriateness of certain technologies. Developing countries are typically characterised by having a large amount of labour, most of which are underemployed or unemploymed. In contrast, it is difficult for developing countries to benefit from advanced technology, because it becomes too costy to produce, use, and maintain. Therefore, developing countries benefit from labour intensive technologies - ones that take advantage of their large labour force and increases employment and productivity. This also helps reduce poverty and dependance on importing technology.<br><br>The problem is that most R&amp;D comes from developed countries, and they typically make advancements in the capital-intensive section of technology. This is because capital intensive tech is more suited for their needs. Developing countries hardly invest in R&amp;D, making it difficult to aquire appropriate tech for them."
+                    ],
+                    "guid": "hqwP@@})k)",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Explain why limited access to international markets is a barrier to economic growth",
+                        "Tariff barriers:<br>- In an attempt to help local farmers, many countries have very high tariffs on agricultural goods and servcies. Since developing countries typically specialise in the production of primary goods, including argiculture, it makes it difficult for them to compete with domestic firms in other countries. This is because the tariff serves to icnrease the world price, making exports to other countries less competative. With less competative exports, export revenue decreases leading to less economic growth as net exports&nbsp;are a component of real gdp.&nbsp;<br><br>- Tariff escalation for manufactured goods are also typically much higher than on primary commodities. This disincentivisises firms to perform&nbsp;<i>vertical diversification&nbsp;</i>wherein they use their primary commodities to make manufactured goods. As a result, the structural changes which permit industrialisation in the economy are prevented, and the economy remains in primarily in the primary sector.&nbsp;<br><br>Agricultural subsidies:<br>- In international trade, one of the most problematic issues is when rich countries excessively subsidise the agricultural industry, under the veil of protecting farmers' income. Yet the majority of the subsitdes are enjoyed by large farmers, already benefiting from economies of scale.&nbsp;<br><br>Administative barriers:<br>- Rejection of imports due to not meeting health, saftey, and quality 'standards.' Limits export revenue."
+                    ],
+                    "guid": "dOn+uXbj[N",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is capital flight a barrier to economic growth?",
+                        "Capital flight is the large scale transfer of financial capital out of a country, usually due to high degrees of percieved risk and uncertainty in the country's future economic health. Residents of the country are fearful of holding assets in the country, perhaps due to political instabllity, corruption and fear that their assets will be confiscated by the state.&nbsp;<br><br>This is a problem as it exterts a downward pressure on the currency due to increased supply, leading to curreny depreciation. Greater depreciation means that asset prices decrease relative to other currencies, thereby making asset-holders fearful. This in turn, causes greater captial flight leading to even greater currency depreciation. In the end, the currency spirals downward&nbsp;<br><br>This also worsens external debt, making it harder to pay of principal and interest payments.&nbsp;"
+                    ],
+                    "guid": "i2BpdTqcs`",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is a indebtedness a barrier to economic growth?",
+                        "- Debt servcing means that the government has fewer reasoruces to invest in social services, infrastructure, etc.&nbsp;<br>- Poor credit rating makes it increasingly difficult for governments to borrow to fuel economic growth<br>- Taxes may need to increase, whihc is deflationery for the economy<br>- Income inequality as debt is owned by wealther individuals<br>- Lower FDI due to economic uncertainty<br>- Debt trap where the government keeps borrowing to repay old debt.&nbsp;"
+                    ],
+                    "guid": "A|34SlC/oC",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is ineffective taxation a social barrier to economic growth?",
+                        "Governements need tax revenue to provide infrastrcure, invest in human capital, and undertake in other activities to increase economic growth. Bad tax structures can lead to less tax revenue, and therefore, less economic growth. Developing countries often have:<br><br>- corrupt tax systems; bribery to not pay tax.<br>- regressive/not pregressive enough taxt systems<br>- high dependance on tax for government revenue.<br>-inefficiencies in tax collection, invloving complex legislation and beauracratic procedures. This wastes reasources and creates ways people can evade tax.&nbsp;<br>- Tax exemptions for wealth firms and people due to political connections.&nbsp;<br>- Low property taxes. Not taxing the wealthier group of people who are holders of property.&nbsp;<br><br>Negative effects on reasource allocation:<br>- capital goods are often exempt from taxes, leading to capital intensive production methods (bad for developing economies)<br>- Tax advantages enjoyed by old wealthy firms and medium sized firms face most of the tax burden.<br><br><br>"
+                    ],
+                    "guid": "u+.#31Q|M8",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is limited banking a barrier to economic development?",
+                        "- Greater incentive for people to save, as there is a return on their saving via the bank through an interest rate. Leading to greater quality of life and condifence in the economy as people are more financially secure.&nbsp;<br>- Provide firms with credit to expand their productive facillities, leading to greater investment-driven economic growth through higher output.&nbsp;<br>- Credit to advance human capital and increase employment and productivity. More skilled labour form college degrees and more productivity.<br>- Poverty alleviation, as saved income will grow. Also allows them to buy necessities on credit and invest in physical and human capital.<br><br>Despite this, developing countries do not take advantage of the advantages of credit. Banks are typically more willing to lend to large MNCs as their earnings from interest payments are substainial and they are more trustworthy than smaller clients (they typically have collateral and good credit ratings.)&nbsp;<br><br>As a result, people rely on the informal economy in 'loan sharks' to get money, who charge criminally high interest rates.&nbsp;<br>"
+                    ],
+                    "guid": "A)gzj%{XU|",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is lack of property and land rights a barrier to economic growth?",
+                        "Property rights refer to the legislation that governs how property can be owned, used, and transfered in an economy.&nbsp;<br><br>Risk in this needs to be minimised, as firms are reluctant to expand into making a new factory if they aren't sure that their property won't be confiscated or if the property isn't legally secured in their name.&nbsp;<br><br>Investment and access to credit: INvestment expenditure is less risky if people property rights are not secure. There less access to credit as people cannot put their property up as collateral to take loans from banks. In the abscence of a legal title, banks may offer higher interest rates as they deem the transcation more risky.&nbsp;<br><br>Critisisms:&nbsp;<br><img src=\"paste-5685847fac635d6fcff54025f640640803534b37.jpg\"><br>Also the problem of land-grabs"
+                    ],
+                    "guid": "C@jt5W;n)B",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is gender inequality a barrier to economic development?",
+                        "Gender inequalities in labour market:<br>Lower levels of skills and education make women less employable in comparison to men. Even if women do have the same skills as men, discrimination prevents them from securing a job. This makes women seek the informal economy to find work, leading to less skilled work, less pay, and exploitation.&nbsp;<br>Women also have very low access to credit due to discrimination and wealth gaps. This is because they often don't have collateral to offer up to secure loans, leading to higher interest rates.&nbsp;"
+                    ],
+                    "guid": "c@&1133l@B",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is corruption a barrier to economic growth?",
+                        "Corruption is the abuse of public office for private gain at the expense of others.&nbsp;<br><br>- Corruption can be thought of as a tax to obtain goods and services, making provate investments more costly, reducing the opportunities for investment-driven economic growth.&nbsp;<br>- Corruption is also regressive like most taxes, as for payments to obtain basic services (bribes to teachers and health workers,) lower income households have to pay a greater portion of their income to have the same beenfits as higher income households. This creates a even more unequitable distriubtion of income, which stunts economic growth as people get trapped in poverty traps.&nbsp;<br>- Corruption taken from tax revenue reduces the amount governments can expend on providing infrastructure and subsisiding education to increase human capital and health.&nbsp;<br>- Causes a misallocation of reasources, as governments pursue uneeconomic projects as opposed to other projects that are actually needed in the economy leading to poor infrastructure.&nbsp;<br>- Damages reputation of the country, causing less FDI and capital flight as people are unsure of the country's future.&nbsp;"
+                    ],
+                    "guid": "n?B+]7%&`3",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is unequal political power and status a barrier to economic growth?",
+                        "All societies have some level of social stratification, in which the population are organised in strata in terms of their wealth and status. A caste system, or a predispotioned lower class for some, harms economic growth as it does not reward those who contribute to the eocnomy.&nbsp;<img src=\"paste-c69c092a1e0dfc8896ba387530d42de0c87a91eb.jpg\">"
+                    ],
+                    "guid": "LrUjqvC}B%",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.9",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is Foreign Direct Investment?",
+                        "Foreign Direct Investment is investment expenditure by multi-national coorperations from another country in the productive activities of a host country, of which they own at least 10% of the firm.&nbsp;<br>"
+                    ],
+                    "guid": "jMXiskW!]8",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are MNCs",
+                        "Multinational companies are typically large businesses that have business operations in multiple countries&nbsp;"
+                    ],
+                    "guid": "je.]DfSrO5",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Give the Advantages and Disadvantages of FDI",
+                        "Advantages<br>&nbsp;1. MNCs can cause technology transfer to host countries. This can improve their physical capital, leading to greater productity and efficiencies in the host country's output. Also, MNCs engage in training programs which can improve the human capital of citizens, leading to better skills and more productivity.&nbsp;<br>2. MNCs can help increase domestic employment, leading to lower unemployment in the industry. This alleviates poverty, as citizens can have savings to invest in education and physical capital to grow their incomes and break out of poverty.&nbsp;<br>3. Through FDI investment expenditure into the country increases, causing investment-driven economic growth. MNCs can also be taxed by the government, and the tax revenue can be used to build infrastructure&nbsp;<br>4. FDI flowing in as credits into the financial account can help offset any imbalance in international trade in the currenct account from having too many imports. Additionaly, since the activities of MNCs are usually export-oriented, they can also improve export revenue.&nbsp;<br>5. MNCs can improve the local industry, as they rely on domestically produced factor inputs. This helps local firms grow and expand, eventually benefiting from economies of scale, making their average costs lower and benefiting international trade.&nbsp;<br>Disadvantages:<br>1. Through repatriated profits, MNCs exert a downward pressure on the exchange rate, thereby causing exchange rate depreciation. This makes local assets decrease in price, risking capital flight.&nbsp;<br>2. Environmental degredation. This is because MNCs typically pursue production with complete disregard for the environement to reduce costs, and because environmental laws are typically not very strong in developing countries. This impacts green GDP and sustainable development, compromising the future of the country.&nbsp;<br>3. MNCs may import inapporpriate technology, which is a barrier to economic growth in developing countries. For example, if MNCs rely on capital intensive technologies as opposed to labour intensive technologies, workers can become structurally unemployed, leading to higher unemployment.&nbsp;<br>4. MNCs may exert political pressure on labour laws, leading to countries to pursue economic policy in their own interest as opposed to improving economic growth and standards of living.&nbsp;<br>5. Promote inapporpriate consumption patterns. MNCs that sell de-merit goods such as junk food could lead to greater external costs as consumers are now exposed to them at a cheap price.&nbsp;<br>"
+                    ],
+                    "guid": "b<rjj,LedZ",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is foreign aid",
+                        "Foreign aid is the transfer of funds from countries into developing countries with the intention of bringing improvements in their social, economic, and political conditions.<br>In order to qualify as aid, it must be <i>concessional</i>, meaninf better than what the free-market offers (e.g lower interest rate loan)<br>It must also be <i>non-commerical,&nbsp;</i>meaning that the aid-givers are not concerned with making a profit.&nbsp;"
+                    ],
+                    "guid": "bEvLaIU-o{",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is humanitarian aid?",
+                        "Humanitarian aid is a type of aid given to countries stricken by natural disasters or violent conflicts in an effort to save lives and ensure basic necessities."
+                    ],
+                    "guid": "J_:Hhm=hXU",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is developmental aid?",
+                        "Aid given to countries to achieve economic growth and development objectives. It typically involves the financing of several projects including hospitals, energy, and schools.&nbsp;"
+                    ],
+                    "guid": "Qw^~h&SY3@",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is Official Development Assistance (ODA)",
+                        "This is government aid from developed countries given to promote the economic, social and political well-being of developing countries.&nbsp;"
+                    ],
+                    "guid": "qcg^Y[Y`Sw",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is private aid (NGOs) ?",
+                        "This is aid given directly to NGOs, which are private firms that pursue the relief of suffering and the interests of the poor."
+                    ],
+                    "guid": "G+ji0{{=i*",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Give the advantages and disadvantages of foreign aid",
+                        "Arguments in favour of Aid:<br>1. Aid and the poverty cycle: If the government lacks tax reveunes to intervene by increasing investment expenditure by investing in human capital and physical capital, it needs to rely on aid to lift people from the poverty cycle. Lifting people from the poverty cycle can make people and the economy more productive.<br>2. Aid and the debt trap: Countries that are heavily indebted and have fallen victim to the debt trap can use aid to allievate debt. Now, tax revenues can go to funding infrastructure and other things.<br>3. Improved income distribution. Bad income distribution is a barrier to economic growth.<br><br>Factors that limit aid:<br>1. Tied aid (where recipients of aid are forced to spend all or a large portion of the aid on the sender's goods and services.)<br><ul><li>This means that import expenditure increases as they are forced to by the sender's products as a opposed to cheaper alternatives</li><li>purchasing of inappropriate, capital-intensive technologies</li></ul><div>2. Conditional aid (Most donors of the ODA impose stipulations that need to be met if they were to give aid. This often refers to achieving more market orientation, but sometimes donors are ignorant into the real problems associated in the country. Thus they may impose counterproductive policies that the country needs to adopt.)</div><div>3. Uncoordinated donors can give rise to many inefficiencies</div><div>4. Aid may substitute government efforts to increase tax revenue rather than supplement.&nbsp;</div><br>"
+                    ],
+                    "guid": "I$!K1eMy;!",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is multilateral development assistance?",
+                        "This involves lending money to developing countries on non-concessional terms, meaning that at interest rates and repayment periods determined by the market.&nbsp;"
+                    ],
+                    "guid": "tMy]:M#>q[",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the World Bank?",
+                        "The World Bank is a development assistance organisation focusing on extending long-term loans to developing countries with the purpose of promoting economic growth and structural change.&nbsp;"
+                    ],
+                    "guid": "F}8NqR5@l9",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What two parts make up the World Bank?",
+                        "1. The International Bank for Reconstruction and Development (IBRD) that lends out loans at non-concessional terms to middle income developing countries.&nbsp;<br>2. The Internation Development Acossiation (IDA) that lends out loans at concessional terms to low income developing countries."
+                    ],
+                    "guid": "PHAGdo64pg",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Evaluating the World Bank",
+                        "1. Social and enviornmental concerns. In the early years, the World Bank was ignorant as to the effects of the society, as it often aided projects that displaced indigenuos people. Moreover, it lacked concern for the environment. However, in recent years, it has become more aware as to the effects it has on the enviornemnt and society.&nbsp;<br>2. The World Bank is dominated by wealthier countries as voting power increases with the amount donated.&nbsp;<br>3. Excessive interference in other countries domestic affaires<br>4. Conditional lending<br>"
+                    ],
+                    "guid": "x1hkx{aB`z",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the International Monetary Fund?",
+                        "The IMF is a multilateral financial institution established jointly with the World Bank. Its purpose is to oversee the global financial system, manage macroeconomic policies, and stabilise exchange rates.&nbsp;"
+                    ],
+                    "guid": "L<iF*&SBdx",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the role of the IMF?",
+                        "The IMF comes as a package where a country must adopt the following to take advantage of loans. These are called <i>stabilisation policies</i>:<br>1. Contractionery monetary policy/Contractionery Fiscal Policy/Currency Devaluation/Cuts in real-wages. This raises interest rates, leading to reduced consumption in the economy. As a result economic growth declines, demonstrated as AD decreases. This causes demand for imports to reduce, decreasing import expenditure.&nbsp;"
+                    ],
+                    "guid": "s:=?7aV#w_",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Evaluate the IMF?",
+                        "<img src=\"paste-2bb450accde0562be57e997c0456bd55b8d4c57a.jpg\">"
+                    ],
+                    "guid": "M/E7Fw!jcL",
+                    "note_model_uuid": "8343fe50-0318-11f0-9f87-0530bcb0d47d",
+                    "tags": [
+                        "4.10",
+                        "AO4"
+                    ]
                 }
             ],
             "reviewLimit": null,
